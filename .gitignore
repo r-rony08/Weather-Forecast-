@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Django
+*.pyc
+db.sqlite3
+/static/
+/media/
+
+# Environment
+.env
+venv/
+*.env
+
+# VSCode
+.vscode/
+
+# Database files
+db.mysql
+*.weather
+
+# MySQL/PostgreSQL dump files
+*.sql
+*.dump
+
+# macOS
+.DS_Store
